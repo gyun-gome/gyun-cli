@@ -35,7 +35,7 @@ class ModifyS2SharedTargetAttributesAction(BaseAction):
 
         parser.add_argument("-p", "--parameters", dest="parameters",
                             action="store", type=str, default=None,
-                            help="please refer https://docs.qc.gyun.com/api/s2/describle_s2_default_parameters.html")
+                            help="please refer http://docs.qc.gyun.com/api/s2/describle_s2_default_parameters.html")
 
         parser.add_argument("-i", "--initiator-names", dest="initiator_names",
                             action="store", type=str, default=None,

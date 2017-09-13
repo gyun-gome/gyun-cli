@@ -57,7 +57,7 @@ setup(
     keywords = 'gyun iaas gomestor cli',
     author = 'GYUN Team',
     author_email = 'service@gomeholdings.com',
-    url = 'https://docs.qc.gyun.com',
+    url = 'http://docs.qc.gyun.com',
     scripts=bin_scripts,
     packages = find_packages('.'),
     package_dir = {'gyun-cli': 'gyun'},

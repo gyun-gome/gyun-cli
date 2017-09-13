@@ -11,7 +11,7 @@ This CLI is licensed under
   
 .. note::
   Requires Python 2.6 or higher, for more information please see
-  `GYUN CLI Documentation <https://docs.qc.gyun.com/cli/>`_
+  `GYUN CLI Documentation <http://docs.qc.gyun.com/cli/>`_
   
 
 -------------
@@ -58,7 +58,7 @@ To use gyun-cli, there must be a configuration file to configure your own
   qy_secret_access_key: 'GYUNSECRETACCESSKEYEXAMPLE'
   zone: 'pek1'
 
-access key can be applied for in `GYUN Console <https://console.qc.gyun.com/access_keys/>`_.
+access key can be applied for in `GYUN Console <http://console.qc.gyun.com/access_keys/>`_.
 zone is the Node ID where your resources are,
 and it can be checked in the switching node on the console,
 such as ``pek1``, ``pek2``, ``gd1``, ``ap1`` .
